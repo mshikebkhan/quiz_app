@@ -65,9 +65,11 @@ python main.py
 
 ## 📌 TODO Ideas
 
-- Add clicking sounds to buttons
-- Add an alarm when the timer ends
-- Or anything else you think of!
+- Add categories or difficulty selection
+- Add multiple choice support
+- Add a timer for each question
+- Track high scores locally or with database
+- Add sound effects or animations 🎵
 
 ---
 
