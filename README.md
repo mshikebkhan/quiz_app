@@ -14,7 +14,7 @@ This app helps improve your knowledge in an enjoyable way using real-time quiz d
 
 ## 💻 Download for Windows
 
-🔗 [Download Now!](https://github.com/yourusername/quiz-app/releases/download/v1.0.0/QuizAppSetup.exe)
+🔗 [Download Now!](https://github.com/mshikebkhan/quiz-app/releases/download/v1.0.0/QuizAppSetup.exe)
 
 ---
 
